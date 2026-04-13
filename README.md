@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">I'm Linus from Kenya<br><br>- 🔭 Part Time SOftware Developer<br>- 📚 currently learning PHP MYSQL</p>
+<p align="left">ICT Officer | Problem Solver | Lifelong Learner
+Building practical solutions and improving systems through technology.
+ MYSQL</p>
 
 ###
 
