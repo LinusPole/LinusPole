@@ -25,8 +25,7 @@
 ###
 
 <p align="left">I'm Linus Tinga an ICT Officer | Problem Solver | Lifelong Learner,
-Building practical solutions and improving systems through technology.
- MYSQL</p>
+Building practical solutions and improving systems through technology.</p>
 
 ###
 
